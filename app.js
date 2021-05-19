@@ -8,7 +8,7 @@ function getVideo() {
       type: 'GET',
       url: 'https://www.googleapis.com/youtube/v3/search',
       data: {
-          key: 'AIzaSyBj8hXNspUSEr4yW34qWcl7MXBvg_guOf4',
+          key: '',
           q: input.value,
           part: 'snippet',
           maxResults: 1,
