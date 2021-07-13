@@ -5,3 +5,7 @@ Uses Youtube API to allow users to search a word and generate a random video per
 To Do:
 - figure out how to not have video pop up when there is no search
      - currently loads a random video when page first opens & when user refreshes page
+
+- adjust styling
+     - spacing in between video, title, description
+     - div input
